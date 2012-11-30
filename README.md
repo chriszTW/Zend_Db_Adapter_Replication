@@ -29,9 +29,4 @@ Example
     // continue on using $db just as you do a standard Zend_Db_Adapter_* object
     
 This has only been tested using Mysqli connections but in theory works with any connection.
-
-License
-=======================
-MIT License
-Please see LICENSE.txt
     
